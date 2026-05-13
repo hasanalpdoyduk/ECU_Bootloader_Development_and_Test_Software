@@ -1,5 +1,5 @@
 
-#  ECU Bootloader Development & Test Software
+#  dsPIC33 ECU Bootloader Development & Test Software
 
 *[2024–2025] Electrical & Electronics Engineering — Senior Project*
 
