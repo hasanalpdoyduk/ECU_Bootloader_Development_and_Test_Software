@@ -74,7 +74,7 @@ All hardware components are listed in the [Bill of Materials (BOM)](https://gith
 
 This PCB is manufactured and tested successfully.
 
-[3D View of PCB](https://github.com/hasanalpdoyduk/Test-Software-and-Bootloader-Development-for-an-ECU/blob/main/Images/3D_view.png)
+![3D](https://github.com/hasanalpdoyduk/ECU_Bootloader_Development_and_Test_Software/blob/main/Images/3D_view.png?raw=true)
 
 ## Software
 
